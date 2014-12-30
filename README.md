@@ -2,4 +2,5 @@ SampleRepo
 ==========
 
 Sample repository to test
-Added in JA_DEV
+
+Hello it is edited to checkin in JA_TST
